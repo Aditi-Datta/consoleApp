@@ -1,0 +1,14 @@
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\bin\Debug\net8.0\ConsoleAppFirstProject.exe
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\bin\Debug\net8.0\ConsoleAppFirstProject.deps.json
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\bin\Debug\net8.0\ConsoleAppFirstProject.runtimeconfig.json
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\bin\Debug\net8.0\ConsoleAppFirstProject.dll
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\bin\Debug\net8.0\ConsoleAppFirstProject.pdb
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ConsoleAppFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ConsoleAppFirstProject.AssemblyInfoInputs.cache
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ConsoleAppFirstProject.AssemblyInfo.cs
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ConsoleAppFirstProject.csproj.CoreCompileInputs.cache
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ConsoleAppFirstProject.dll
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\refint\ConsoleAppFirstProject.dll
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ConsoleAppFirstProject.pdb
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ConsoleAppFirstProject.genruntimeconfig.cache
+D:\ConsoleAppFirstProject\ConsoleAppFirstProject\obj\Debug\net8.0\ref\ConsoleAppFirstProject.dll
